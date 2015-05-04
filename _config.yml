@@ -1,7 +1,7 @@
 # Site settings
 title: x-Shen's Blog
 email: shenx3@uci.edu
-description: > # This is my personal blog hosted on github. I'll write about random stuff that I found interesting.
+description: > # x-Shen's blog on github.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "x-shen.github.io" # the base hostname & protocol for your site
 twitter_username: x-Shen
