@@ -4,8 +4,8 @@ email: shenx3@uci.edu
 description: > # This is my personal blog hosted on github. I'll write about random stuff that I found interesting.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "x-shen.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: x-Shen
+github_username:  x-Shen
 
 # Build settings
 markdown: kramdown
